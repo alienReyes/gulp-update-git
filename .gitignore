@@ -39,5 +39,8 @@ Thumbs.db
 # modules from gulp and bower #
 ######################
 node_modules/
-src/
 bower/modules
+bower_components
+.sass-cache/
+package-lock.json
+dist/
